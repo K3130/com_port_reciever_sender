@@ -5,6 +5,6 @@
 ![Screenshot_5](https://github.com/K3130/com_port_reciever_sender/assets/23383424/00a09049-205a-43b8-9b50-8325d9e503e2)
 
 ***To assemble you need:***
-*install: vcpkg*__
-*install: wxwidgets:x64-windows-static*__
+*install: vcpkg*  
+*install: wxwidgets:x64-windows-static*  
 *install: boost:x64-windows*
